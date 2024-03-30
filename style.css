@@ -14,8 +14,6 @@ body{
     color: white;
     flex-direction: column;
     gap: 1.5rem;
-    min-width:100vw;
-    
 }
 h1{
     padding: 0rem .5rem;
